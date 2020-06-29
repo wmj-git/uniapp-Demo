@@ -41,12 +41,13 @@
 						url: 'choose-location'
 					}
 					// #endif
-					// #ifndef MP-QQ || MP-TOUTIAO
 					,
+					// #ifndef MP-QQ || MP-TOUTIAO
 					{
 						name: '地图控制',
 						url: 'map'
 					}
+					// #endif
 				],
 			}];
 			return {

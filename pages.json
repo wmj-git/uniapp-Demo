@@ -54,12 +54,6 @@
 				"navigationBarTitleText": "获取用户信息"
 			}
 		},
-		// {
-		// 	"path": "pages/view/get-map/get-map",
-		// 	"style": {
-		// 		"navigationBarTitleText": "获取地图"
-		// 	}
-		// },
 		{
 			"path": "pages/view/get-location/get-location",
 			"style": {
