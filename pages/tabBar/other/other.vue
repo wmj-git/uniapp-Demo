@@ -34,10 +34,6 @@
 				{
 					name: '获取用户信息',
 					url: 'get-user-info'
-				},
-				{
-					name: '地图',
-					url: 'get-map'
 				}]
 			}
 		},
