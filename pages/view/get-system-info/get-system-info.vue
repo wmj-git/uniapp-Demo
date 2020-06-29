@@ -1,6 +1,5 @@
 <template>
 	<view>
-		<page-head :title="title"></page-head>
 		<view class="uni-common-mt">
 			<view class="uni-list">
 				<view class="uni-list-cell">
