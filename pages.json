@@ -53,6 +53,36 @@
 			"style": {
 				"navigationBarTitleText": "获取用户信息"
 			}
+		},
+		{
+			"path": "pages/view/get-map/get-map",
+			"style": {
+				"navigationBarTitleText": "获取地图"
+			}
+		},
+		{
+			"path": "pages/view/get-location/get-location",
+			"style": {
+				"navigationBarTitleText": "获取当前位置"
+			}
+		},
+		{
+			"path": "pages/view/open-location/open-location",
+			"style": {
+				"navigationBarTitleText": "地图查位置"
+			}
+		},
+		{
+			"path": "pages/view/choose-location/choose-location",
+			"style": {
+				"navigationBarTitleText": "地图选位置"
+			}
+		},
+		{
+			"path": "pages/view/map/map",
+			"style": {
+				"navigationBarTitleText": "地图操作"
+			}
 		}
 	],
 	"globalStyle": {
