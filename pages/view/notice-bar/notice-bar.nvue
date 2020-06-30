@@ -42,7 +42,10 @@
 	import uniNoticeBar from '@/components/uni-notice-bar/uni-notice-bar.vue'
 	import uniSection from '@/components/uni-section/uni-section.vue'
 	export default {
-		components: {},
+		components: {
+			uniNoticeBar,
+			uniSection
+		},
 		data() {
 			return {}
 		},

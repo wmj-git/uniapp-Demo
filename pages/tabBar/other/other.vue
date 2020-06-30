@@ -34,6 +34,14 @@
 				{
 					name: '获取用户信息',
 					url: 'get-user-info'
+				},
+				{
+					name: '上拉加载数据',
+					url: 'list2detail-list'
+				},
+				{
+					name: '下拉刷新',
+					url: 'pull-down-refresh'
 				}]
 			}
 		},

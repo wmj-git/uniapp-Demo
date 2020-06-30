@@ -55,6 +55,19 @@
 			}
 		},
 		{
+			"path": "pages/view/list2detail-list/list2detail-list",
+			"style": {
+				"navigationBarTitleText": "上拉加载"
+			}
+		},
+		{
+			"path": "pages/view/pull-down-refresh/pull-down-refresh",
+			"style": {
+				"navigationBarTitleText": "下拉刷新",
+				"enablePullDownRefresh": true
+			}
+		},
+		{
 			"path": "pages/view/get-location/get-location",
 			"style": {
 				"navigationBarTitleText": "获取当前位置"
